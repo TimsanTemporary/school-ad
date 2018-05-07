@@ -1,0 +1,16 @@
+[Adblock Plus 2.0]
+! Title: Skollistan
+! Expires: 3 days (update frequency)
+! Homepage: https://github.com/TimsanTemporary/school-ad/
+! Description: For The Kids
+!
+! Legal stuff. (T&C's)
+! In no event shall this list, or the list author be liable for any indirect, direct, punitive, special, incidental, or consequential damages whatsoever.
+! By downloading or viewing, or using this list, you are accepting these terms and the license.
+!
+! Elevspel-specifik
+www.elevspel.se##.rek-unit:nth-of-type(2)
+www.elevspel.se##.Block:nth-of-type(2)
+www.elevspel.se##.rek-unit:nth-of-type(5)
+www.elevspel.se##.Block:nth-of-type(4)
+www.elevspel.se##.rek-unit:nth-of-type(6) > .rek-header
