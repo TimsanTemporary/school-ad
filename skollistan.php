@@ -9,8 +9,8 @@
 ! By downloading or viewing, or using this list, you are accepting these terms and the license (which I have yet to pick. So do whatever you want with this.)
 !
 ! Elevspel-specific
-www.elevspel.se##.rek-unit:nth-of-type(2)
-www.elevspel.se##.Block:nth-of-type(2)
-www.elevspel.se##.rek-unit:nth-of-type(5)
-www.elevspel.se##.Block:nth-of-type(4)
-www.elevspel.se##.rek-unit:nth-of-type(6) > .rek-header
+elevspel.se##.rek-unit:nth-of-type(2)
+elevspel.se##.Block:nth-of-type(2)
+elevspel.se##.rek-unit:nth-of-type(5)
+elevspel.se##.Block:nth-of-type(4)
+elevspel.se##.rek-unit:nth-of-type(6) > .rek-header
